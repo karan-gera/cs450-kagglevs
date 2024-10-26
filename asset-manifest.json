@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cs450-kagglevs/static/css/main.174c8635.css",
+    "main.js": "/cs450-kagglevs/static/js/main.51487938.js",
+    "static/js/453.ee0a490b.chunk.js": "/cs450-kagglevs/static/js/453.ee0a490b.chunk.js",
+    "static/media/TOP_100_IMDB_MOVIES.csv": "/cs450-kagglevs/static/media/TOP_100_IMDB_MOVIES.da2d6e21a7eb2cdebbed.csv",
+    "index.html": "/cs450-kagglevs/index.html",
+    "main.174c8635.css.map": "/cs450-kagglevs/static/css/main.174c8635.css.map",
+    "main.51487938.js.map": "/cs450-kagglevs/static/js/main.51487938.js.map",
+    "453.ee0a490b.chunk.js.map": "/cs450-kagglevs/static/js/453.ee0a490b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.174c8635.css",
+    "static/js/main.51487938.js"
+  ]
+}
